@@ -1,0 +1,7 @@
+﻿services:
+  aimless:
+    image: aimless
+    build:
+      context: .
+      dockerfile: Aimless/Dockerfile
+
