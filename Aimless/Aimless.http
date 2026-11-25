@@ -1,6 +1,0 @@
-@Aimless_HostAddress = http://localhost:5125
-
-GET {{Aimless_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
